@@ -1,5 +1,0 @@
-{
-  "name": "WebCard Snapper",
-  "description": "A tool to extract .card elements from uploaded HTML files and capture them as images directly without AI modification.",
-  "requestFramePermissions": []
-}
